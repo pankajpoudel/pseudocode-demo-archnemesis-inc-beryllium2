@@ -2,7 +2,7 @@
 
 ## Welcome to Archnemesis, Inc. – the company that cares!
 
-<img src="/Pseudocode 01 - Welcome to Archnemesis.png" alt="Welcome to Archnemesis">
+<img src="/Pseudocode%2001%20-%20Welcome%20to%20Archnemesis.png">
 
 ### Requirements
 
