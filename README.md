@@ -1,4 +1,4 @@
-# Pseudocode Demo: Company Greeting
+# Pseudocode Demo: Archnemesis!
 
 ## Welcome to Archnemesis, Inc. – the company that cares!
 
